@@ -24,6 +24,7 @@ include_directories(
     ${PYTHON_INCLUDE_DIRS}
     ${SMESH_INCLUDE_DIR}
     ${VTK_INCLUDE_DIRS}
+    ${XercesC_INCLUDE_DIRS}
 )
 
 link_directories(${OCC_LIBRARY_DIR})

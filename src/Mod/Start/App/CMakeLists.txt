@@ -24,6 +24,7 @@
 include_directories(
         ${PYTHON_INCLUDE_DIRS}
         ${QtCore_INCLUDE_DIRS}
+        ${XercesC_INCLUDE_DIRS}
 )
 
 set(Start_LIBS
