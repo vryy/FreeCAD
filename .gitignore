@@ -55,6 +55,8 @@ tags
 /CMakeUserPresets.json
 Testing
 compile_commands.json
+cmake_build*
+ccmake_build*
 
 # crowdin file
 src/Tools/freecad.zip
